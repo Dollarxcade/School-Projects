@@ -4,3 +4,4 @@ let score = Math.abs(actualNum - myGuess);
 alert (`your score is ${score}`)
 
 //Last updated June 1, 2022
+//Run in node.js
