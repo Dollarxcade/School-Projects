@@ -7,3 +7,5 @@ if (score > 0) {
     score = Math.abs (score)
     alert (`your score is ${score}`)
 };
+
+//Last updated April 27, 2022
