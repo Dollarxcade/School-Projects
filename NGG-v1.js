@@ -8,4 +8,4 @@ if (score > 0) {
     alert (`your score is ${score}`)
 };
 
-//Last updated April 27, 2022
+//Last updated 2022-04-27
