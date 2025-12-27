@@ -84,7 +84,8 @@ public class WorksheetPortal extends ConsoleProgram {
             System.out.print("Valid weight?"+ !true);
         });
 
-        // Add further worksheet questions here following format above.
+        // Add further worksheet questions here following format above
+        // For the hashmap addresses the first number is the day the worksheet was assigned and the second number is question number on worksheet
     }
 
     private void printMenu() {
