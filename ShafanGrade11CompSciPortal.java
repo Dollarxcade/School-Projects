@@ -43,8 +43,8 @@ public class WorksheetPortal extends ConsoleProgram {
         });
         
         questions.put("19-13", () -> {
-            String school = "Glenforest";
-            String address = "3575 Fieldgate Dr.";
+            String school = "Katagiri Senior High School";
+            String address = "6767 Kawaii Drive";
             String name = readLine("Name: ");
             int age = readInt("Age: ");
             int grade = readInt("Grade: ");
