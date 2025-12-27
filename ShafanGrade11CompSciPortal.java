@@ -83,6 +83,8 @@ public class WorksheetPortal extends ConsoleProgram {
         questions.put("21-9", () -> {
             System.out.print("Valid weight?"+ !true);
         });
+
+        // Add further worksheet questions here following format above.
     }
 
     private void printMenu() {
