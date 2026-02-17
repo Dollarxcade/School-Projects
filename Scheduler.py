@@ -138,3 +138,12 @@ def generate_schedule():
 
 if __name__ == "__main__":
     generate_schedule()
+
+# To use this script download VSCode and VSCode python extension
+# Download this script and put it into an empty folder
+# Then do pip install pandas in console
+# Click on the triangle in the top right and run code
+# Type responses to questions in console
+# Results should be in same folder as script
+
+# Last updated 2026-02-17
